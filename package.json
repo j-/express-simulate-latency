@@ -1,0 +1,8 @@
+{
+  "name": "express-simulate-latency",
+  "version": "0.0.1",
+  "description": "Generate middleware which simulates network latency",
+  "main": "index.js",
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT"
+}
