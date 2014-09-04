@@ -1,8 +1,14 @@
 {
   "name": "express-simulate-latency",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate middleware which simulates network latency",
   "main": "index.js",
   "author": "Jamie Hoeks <j@skeoh.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/j-/express-simulate-latency",
+  "bugs": "https://github.com/j-/express-simulate-latency/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-/express-simulate-latency.git"
+  }
 }
